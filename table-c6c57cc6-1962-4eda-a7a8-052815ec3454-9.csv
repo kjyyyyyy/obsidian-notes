@@ -1,0 +1,6 @@
+﻿prod_desc,LIKE &#39;%toy%&#39;,NOT LIKE &#39;%toy%&#39;
+gucci toy,✅,❌
+lego toy,✅,❌
+iphone case,❌,✅
+toystore,✅,❌
+my favorite item,❌,✅

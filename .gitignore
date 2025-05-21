@@ -1,0 +1,16 @@
+#私人内容
+个人提升&学习路径&AI提问/
+
+
+# 临时文件 & 日志
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+
+# Obsidian 系统文件夹
+.obsidian/workspace
+.obsidian/cache
+.obsidian/snippets
+.obsidian/plugins
